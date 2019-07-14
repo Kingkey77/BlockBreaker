@@ -945,7 +945,6 @@ Transform:
   - {fileID: 1872570992}
   - {fileID: 1825214732}
   - {fileID: 1033963382}
-  - {fileID: 1705510859}
   - {fileID: 402191964}
   - {fileID: 1049721111}
   - {fileID: 10037337}
@@ -953,6 +952,7 @@ Transform:
   - {fileID: 601429317}
   - {fileID: 1605775426}
   - {fileID: 332485862}
+  - {fileID: 1705510859}
   - {fileID: 11545906}
   - {fileID: 548166969}
   - {fileID: 1979634829}
@@ -1068,17 +1068,17 @@ PrefabInstance:
     - target: {fileID: 9186811682254532235, guid: 8fcd40682869b67499b13969483b765a,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9186811682254532235, guid: 8fcd40682869b67499b13969483b765a,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9186811682254532235, guid: 8fcd40682869b67499b13969483b765a,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9186811682254532235, guid: 8fcd40682869b67499b13969483b765a,
         type: 3}
